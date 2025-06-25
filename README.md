@@ -2,7 +2,8 @@
 
 Submitted by: **Andria Subhit**
 
-This web app: **insert description**
+This web app:
+This web app is related to and is essesntially an update to project 2. Here, I have expanded the flashcard functionality and added more user interactions with guessing the note cards, navigating, and providing feedback to the user guesses. There have been some design elements implemented as well. 
 
 Time spent: **3** hours spent on this part in total
 
@@ -46,7 +47,7 @@ I greyed out the text input box and the submit button when the card is flipped s
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/zHjk5Pn' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/zHjk5Pn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  ShareX
