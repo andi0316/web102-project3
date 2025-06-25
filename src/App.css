@@ -34,3 +34,28 @@ body {
   margin: 0 auto;
   width: 1000px;
 }
+
+.guess-area{
+  margin: 0 auto;
+  background-color: rgb(244, 238, 238);
+  border-radius: 10px;
+  width: 1100px;
+  padding: 10px;
+}
+
+.input-box{
+  height: 50px;
+  width: 300px;
+  font-size: 35px;
+  margin-bottom: 20px;
+  margin-top: -10px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.input-button{
+  font-size: 25px;
+  padding: 10px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: -10px;
+}
